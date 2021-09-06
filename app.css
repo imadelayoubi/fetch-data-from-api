@@ -1,0 +1,14 @@
+.jokeHolder {
+  margin-top: 2rem;
+  border-style: double;
+  background-color: lightgray;
+  margin-inline: 5rem;
+  margin-trim: 5rem;
+}
+
+#funnybutton {
+  width: 20%;
+  height: 40px;
+  color: brown;
+  margin-left: 33rem;
+}
